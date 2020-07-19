@@ -34,7 +34,7 @@ I am a student, currently studying in Manipal University Jaipur. From very early
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Pramod's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
 </p>  
 
 <div align="center">
