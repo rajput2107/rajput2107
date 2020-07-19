@@ -46,13 +46,13 @@ I am a student, currently studying in Manipal University Jaipur. From very early
  </a></code>
  <code><a href="https://www.instagram.com/cyber_freak_21/" target="blank">
   <img align="center" alt="Pramod's Instagram" width="21px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
- </a><code>
+ </a></code>
  <code><a href="https://twitter.com/pramod2107" target="blank">
   <img align="center" alt="Pramod's Twitter" width="21px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
- </a><code>  
+ </a></code>  
  <code><a href="https://medium.com/@pramodrana2107" target="blank">
   <img align="center" alt="Pramod's Twitter" width="21px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
- </a><code>   
+ </a></code>   
   <br/>
   <br/>
   Thanks for stopping by 😁<br/>
