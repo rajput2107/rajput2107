@@ -1,6 +1,4 @@
-<h1 align= "center"><b> Hello World! :earth_asia:</b></h1>
-<p align="center">
-<img align="center" src="https://media.giphy.com/media/FvKe8DbAMnOda/giphy.gif" width="150px" /></p>
+### <img src="https://media.giphy.com/media/5pT46DBoOn3c1slNHM/giphy.gif" width="29px"> Hello world!&nbsp;<img src="https://media.giphy.com/media/FvKe8DbAMnOda/giphy.gif" width="24px">
 
 
 ## About me :mortar_board:
