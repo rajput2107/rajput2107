@@ -1,8 +1,5 @@
 ### <img src="https://media.giphy.com/media/5pT46DBoOn3c1slNHM/giphy.gif" width="29px"> Hello world!&nbsp;<img src="https://media.giphy.com/media/FvKe8DbAMnOda/giphy.gif" width="24px">
-
-
-## About me :mortar_board:
-I am a student, currently studying in Manipal University Jaipur. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+<em>I am a student, currently studying in <a href="https://jaipur.manipal.edu/"><b>Manipal University Jaipur</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠</em>
  <br/>
 ## Ask me about :computer: 
 - **Competitive Programming**
@@ -42,16 +39,16 @@ I am a student, currently studying in Manipal University Jaipur. From very early
 </div>  
 <p align="center">
  <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="21px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://www.instagram.com/cyber_freak_21/" target="blank">
-  <img align="center" alt="Pramod's Instagram" width="21px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://twitter.com/pramod2107" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="21px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://medium.com/@pramodrana2107" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="21px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
  </a>   
   <br/>
   <br/>
