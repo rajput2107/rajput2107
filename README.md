@@ -42,13 +42,13 @@ I am a student, currently studying in Manipal University Jaipur. From very early
 </div>  
 <p align="center">
  <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="21px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  <img align="center" alt="Pramod's LinkedIn" width="21px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://www.instagram.com/cyber_freak_21/" target="blank">
-  <img align="center" alt="Pramod's Instagram" width="21px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  <img align="center" alt="Pramod's Instagram" width="21px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://twitter.com/pramod2107" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="21px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  <img align="center" alt="Pramod's Twitter" width="21px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://medium.com/@pramodrana2107" target="blank">
   <img align="center" alt="Pramod's Twitter" width="21px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
