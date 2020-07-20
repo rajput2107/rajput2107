@@ -1,11 +1,14 @@
-### <img src="https://media.giphy.com/media/5pT46DBoOn3c1slNHM/giphy.gif" width="29px"> Hello world!&nbsp;<img src="https://media.giphy.com/media/FvKe8DbAMnOda/giphy.gif" width="24px">
-<em>I am a student, currently studying in <a href="https://jaipur.manipal.edu/"><b>Manipal University Jaipur</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠</em>
+### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
+<em>I am a 4th Year undergraduate student from <a href="https://jaipur.manipal.edu/"><b>Manipal University Jaipur</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" width="30px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠</em>
  <br/>
 ## Ask me about :computer: 
 - **Competitive Programming**
 	- Python ❤️
 	- C++
 	- Some Java
+
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
@@ -35,8 +38,8 @@
 </p>  
 
 <div align="center">
- <h3 align="center">Connect with me :smiley:</h3>
-</div>  
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
 <p align="center">
  <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
